@@ -11,6 +11,7 @@
 - Procedural primitive composition is preferred over high-detail mesh generation for the first demo.
 - Camera, database, blockchain, telemetry, and deployment work are deferred.
 - No implementation is pushed until the plan and teammate division are agreed.
+- The canonical GitHub owner is `kundurukarthiksai-creator`.
 
 ## Proposed
 
